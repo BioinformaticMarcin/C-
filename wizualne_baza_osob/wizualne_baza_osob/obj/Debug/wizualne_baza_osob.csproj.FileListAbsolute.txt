@@ -1,0 +1,9 @@
+C:\Users\Marcinek\Desktop\wizualne_baza_osob\wizualne_baza_osob\bin\Debug\wizualne_baza_osob.exe.config
+C:\Users\Marcinek\Desktop\wizualne_baza_osob\wizualne_baza_osob\bin\Debug\wizualne_baza_osob.exe
+C:\Users\Marcinek\Desktop\wizualne_baza_osob\wizualne_baza_osob\bin\Debug\wizualne_baza_osob.pdb
+C:\Users\Marcinek\Desktop\wizualne_baza_osob\wizualne_baza_osob\obj\Debug\wizualne_baza_osob.csprojAssemblyReference.cache
+C:\Users\Marcinek\Desktop\wizualne_baza_osob\wizualne_baza_osob\obj\Debug\wizualne_baza_osob.Properties.Resources.resources
+C:\Users\Marcinek\Desktop\wizualne_baza_osob\wizualne_baza_osob\obj\Debug\wizualne_baza_osob.csproj.GenerateResource.cache
+C:\Users\Marcinek\Desktop\wizualne_baza_osob\wizualne_baza_osob\obj\Debug\wizualne_baza_osob.exe
+C:\Users\Marcinek\Desktop\wizualne_baza_osob\wizualne_baza_osob\obj\Debug\wizualne_baza_osob.pdb
+C:\Users\Marcinek\Desktop\wizualne_baza_osob\wizualne_baza_osob\obj\Debug\wizualne_baza_osob.Okno_baza.resources
