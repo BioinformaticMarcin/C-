@@ -1,0 +1,9 @@
+C:\Users\Marcinek\Desktop\Thread\thready\thready\bin\Debug\thready.exe.config
+C:\Users\Marcinek\Desktop\Thread\thready\thready\bin\Debug\thready.exe
+C:\Users\Marcinek\Desktop\Thread\thready\thready\bin\Debug\thready.pdb
+C:\Users\Marcinek\Desktop\Thread\thready\thready\obj\Debug\thready.csprojAssemblyReference.cache
+C:\Users\Marcinek\Desktop\Thread\thready\thready\obj\Debug\thready.Form1.resources
+C:\Users\Marcinek\Desktop\Thread\thready\thready\obj\Debug\thready.Properties.Resources.resources
+C:\Users\Marcinek\Desktop\Thread\thready\thready\obj\Debug\thready.csproj.GenerateResource.cache
+C:\Users\Marcinek\Desktop\Thread\thready\thready\obj\Debug\thready.exe
+C:\Users\Marcinek\Desktop\Thread\thready\thready\obj\Debug\thready.pdb
